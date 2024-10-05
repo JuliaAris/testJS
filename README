@@ -1,0 +1,8 @@
+Запрос
+fetch("https://kinopoiskapiunofficial.tech/api/v2.2/films/301", {
+method: "GET",
+headers: {
+"X-API-KEY": "2b815b33-2426-41f3-a0cf-35d938bcbb00",
+"Content-Type": "application/json",
+},
+})
